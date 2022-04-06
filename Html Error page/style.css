@@ -1,0 +1,65 @@
+body{
+	background-color: #343434;
+
+}
+.mainbox{
+	background-color: #343434;
+	margin: auto;
+	height: 600px;
+	width: 600px;
+	position: relative;
+}
+.err{
+	color: #ccc;
+	font-family: sans-serif;
+	font-size: 11rem;
+	position: absolute;
+	left: 20%;
+	top: 8%;
+}
+.far{
+	position: absolute;
+	font-size: 8.5rem;
+	left: 42%;
+	top: 15%;
+	color: #ccc;
+}
+.err2
+{
+
+color: #ccc;
+font-size: 11rem;
+font-family: sans-serif;
+position: absolute;
+left: 68%;
+top: 8%;
+
+}
+.msg{
+	text-align: center;
+	font-size: 1.6rem;
+	font-family: sans-serif;
+	left: 16%;
+	top: 45%;
+	position: absolute;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
